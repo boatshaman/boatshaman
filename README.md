@@ -1,15 +1,16 @@
+
 <h1 align="center">Hi 👋, I'm Joseph Hensersky</h1>
 <h3 align="center">A passionate security specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boatshaman&label=Profile%20views&color=0e75b6&style=flat" alt="boatshaman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boatshaman" alt="boatshaman" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boatshaman&theme=matrix" alt="boatshaman" /></a> </p>
 
 - 🔭 I’m currently working on **developing rootless iOS tweaks**
 
 - 👯 I’m looking to collaborate on **security tooling and automation**
 
-- 💬 Ask me about **JavaScript, Mobile, and browsers**
+- 💬 Ask me about **security**
 
 
 
